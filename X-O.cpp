@@ -10,7 +10,7 @@ bool haveTheSameValueAndNotEmpty(char x, char y, char z) {
 // to check hwo player is Winner
 int checkWinner(char board[3][3]) {
     //  2: X winner
-    // -2: O winner
+    // -2: O winner 
     //  0: Tie
     //  1: No winner
 
